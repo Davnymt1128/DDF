@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "dataprovider test suite" verbose = "2">
+	
+	<test name = "dataprovider test">
+		<classes>
+			<class name = "TestCase.OrangeHRMTestCase" />
+		</classes>
+	</test>
+
+
+</suite>
