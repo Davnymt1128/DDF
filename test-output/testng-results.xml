@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7453" started-at="2019-05-04T22:35:02Z" finished-at="2019-05-04T22:35:10Z">
+  <suite name="Default suite" duration-ms="7499" started-at="2019-05-04T23:05:04Z" finished-at="2019-05-04T23:05:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7453" started-at="2019-05-04T22:35:02Z" finished-at="2019-05-04T22:35:10Z">
+    <test name="Default test" duration-ms="7499" started-at="2019-05-04T23:05:04Z" finished-at="2019-05-04T23:05:11Z">
       <class name="TestCase.OrangeHRMTestCase">
-        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="setupBrowser" is-config="true" duration-ms="4639" started-at="2019-05-04T22:35:02Z" finished-at="2019-05-04T22:35:07Z">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="setupBrowser" is-config="true" duration-ms="4780" started-at="2019-05-04T23:05:04Z" finished-at="2019-05-04T23:05:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method status="PASS" signature="loginPositive(java.lang.String, java.lang.String)[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="loginPositive" duration-ms="1783" started-at="2019-05-04T22:35:07Z" data-provider="testData" finished-at="2019-05-04T22:35:09Z">
+        <test-method status="PASS" signature="loginPositive(java.lang.String, java.lang.String)[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="loginPositive" duration-ms="1764" started-at="2019-05-04T23:05:09Z" data-provider="testData" finished-at="2019-05-04T23:05:11Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPositive -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="tearDown" is-config="true" duration-ms="597" started-at="2019-05-04T22:35:09Z" finished-at="2019-05-04T22:35:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.OrangeHRMTestCase@7cd62f43]" name="tearDown" is-config="true" duration-ms="585" started-at="2019-05-04T23:05:11Z" finished-at="2019-05-04T23:05:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

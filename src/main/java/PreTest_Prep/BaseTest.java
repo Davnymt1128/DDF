@@ -59,7 +59,7 @@ public class BaseTest {
 		
 		if(browser.equalsIgnoreCase("chrome"))
 		{
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Davny1128\\Documents\\Chrome Driver (Selenium)\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Davny1128\\Downloads\\Automation\\AutomationDrivers\\chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 		else if(browser.equalsIgnoreCase("fireFox"))
